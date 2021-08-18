@@ -1,5 +1,5 @@
 <script>
-  import Camelize from "./Camelize.svelte";
+  import {Camelize} from "Camelize";
 
 </script>
 
