@@ -7,7 +7,7 @@ Get yours strings conerted to camelCase
 
 ## Get started
 
-`npm i camelization --save`
+`npm i camelizestring --save`
 
 Then...
 
