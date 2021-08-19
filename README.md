@@ -12,6 +12,6 @@ Get yours strings conerted to camelCase
 Then...
 
 ```
-import Camelize from "./Camelize.svelte"
+import Camelize from "Camelize"
 <Camelize word="case study" />
 ```
