@@ -29,7 +29,7 @@ function serve() {
 }
 
 export default {
-	input: 'src/Camelize.svelte',
+	input: 'src/Component/Camelize.svelte',
 	output: {
 		sourcemap: true,
 		format: 'iife',
