@@ -24,7 +24,6 @@
   },
   "files": [
     "src",
-    "main.mjs",
     "main.js"
   ]
 }
