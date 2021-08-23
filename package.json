@@ -1,6 +1,6 @@
 {
   "name": "camelize-001",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "public": true,
   "svelte": "src/component/Camelize.svelte",
   "module": "index.mjs",
