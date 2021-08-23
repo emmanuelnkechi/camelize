@@ -2,6 +2,8 @@
   "name": "camelizestring",
   "version": "1.0.4",
   "public": true,
+  "svelte": "src/component/Camelize.svelte",
+  "main": "src/main.js",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -20,19 +22,8 @@
   "dependencies": {
     "sirv-cli": "^1.0.0"
   },
-  "description": "---",
-  "main": "rollup.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/emmanuelnkechi/camelize.git"
-  },
-  "keywords": [
-    "camelize"
-  ],
-  "author": "Nkechi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/emmanuelnkechi/camelize/issues"
-  },
-  "homepage": "https://github.com/emmanuelnkechi/camelize#readme"
+  "files": [
+    "src",
+    "main.js"
+  ]
 }
