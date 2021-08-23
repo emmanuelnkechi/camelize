@@ -2,6 +2,9 @@
   "name": "camelize-001",
   "version": "1.0.0",
   "public": true,
+  "svelte": "src/component.svelte",
+  "module": "index.mjs",
+  "main": "main.js",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -19,5 +22,10 @@
   },
   "dependencies": {
     "sirv-cli": "^1.0.0"
-  }
+  },
+  "files": [
+    "src",
+    "main.mjs",
+    "main.js"
+  ]
 }
